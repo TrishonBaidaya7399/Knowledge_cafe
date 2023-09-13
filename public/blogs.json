@@ -2,52 +2,32 @@
     {
       "id": "12345",
       "cover_image": "https://i.ibb.co/55LTtyk/blog-img-01.png",
-      "author_name": "John Doe",
+      "author_name": "Mrs. Setara",
       "author_img": "https://i.ibb.co/87kCB43/User-02.png",
-      "title": "Lorem Ipsum: A Journey Through Text",
-      "posted_date": "2023-09-12",
+      "title": "How to get your first job as a self-taught programmer",
+      "posted_date": "Mar 14 (4 Days ago)",
       "reading_time": 10,
-      "hash_tags": ["Lorem", "Ipsum", "Text"]
-    },
-    {
-      "id": "67890",
-      "cover_image": "https://i.ibb.co/GCVtY5R/blog-img-02.png",
-      "author_name": "Jane Smith",
-      "author_img": "https://i.ibb.co/jh0JHXj/User-03.png",
-      "title": "The Art of Fiction",
-      "posted_date": "2023-09-11",
-      "reading_time": 15,
-      "hash_tags": ["Fiction", "Art", "Writing"]
+      "hash_tags": ["beginners", "programming"]
     },
     {
       "id": "54321",
       "cover_image": "https://i.ibb.co/KXVVprg/blog-img-03.png",
-      "author_name": "Sam Wilson",
+      "author_name": "Mr. Raju",
       "author_img": "https://i.ibb.co/kMhBnnv/User-04.png",
-      "title": "Exploring the Cosmos",
-      "posted_date": "2023-09-10",
-      "reading_time": 20,
-      "hash_tags": ["Cosmos", "Space", "Exploration"]
+      "title": "How to get your first job as a self-taught programmer",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 10,
+      "hash_tags": ["beginners", "programming"]
     },
     {
-      "id": "98765",
-      "cover_image": "hhttps://i.ibb.co/GCVtY5R/blog-img-02.png",
-      "author_name": "Emily Brown",
-      "author_img": "https://i.ibb.co/gDkw7yW/User-01.png",
-      "title": "Healthy Eating Habits",
-      "posted_date": "2023-09-09",
-      "reading_time": 8,
-      "hash_tags": ["Health", "Nutrition", "Diet"]
-    },
-    {
-      "id": "24680",
-      "cover_image": "https://i.ibb.co/KXVVprg/blog-img-03.png",
-      "author_name": "David Clark",
-      "author_img": "https://i.ibb.co/gDkw7yW/User-01.png",
-      "title": "The Art of Photography",
-      "posted_date": "2023-09-08",
+      "id": "67890",
+      "cover_image": "https://i.ibb.co/GCVtY5R/blog-img-02.png",
+      "author_name": "Mina Mostofa",
+      "author_img": "https://i.ibb.co/jh0JHXj/User-03.png",
+      "title": "How to get your first job as a self-taught programmer",
+      "posted_date": "Mar 14 (4 Days ago)",
       "reading_time": 12,
-      "hash_tags": ["Photography", "Art", "Creativity"]
+      "hash_tags": ["beginners", "programming"]
     }
   ]
   
