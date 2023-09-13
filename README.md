@@ -1,4 +1,6 @@
 # React + Vite
+Live link (surge): http://react-blog-site-knowledge_cafe.surge.sh/
+GitHub live link: https://trishonbaidaya7399.github.io/Knowledge_cafe/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
